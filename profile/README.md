@@ -23,7 +23,9 @@ pertemuan-02-topik/
 Cari repo kelas kamu di daftar repository organization ini, lalu clone atau ikuti instruksi di README repo tersebut.
 
 ## 🛠️ Untuk Asisten Praktikum
-Lihat panduan lengkap di [].
+Lihat panduan lengkap di sini:
+ 
+[![Panduan Asisten Praktikum](https://img.shields.io/badge/Panduan-Asisten%20Praktikum-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praktikum-Sistem-Informasi/.github/blob/main/README.md)
 
 ## 📬 Kontak
 Ada pertanyaan atau kendala akses? Hubungi kami:
